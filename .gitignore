@@ -1,0 +1,33 @@
+# Ignore temporary and cache files from Power BI
+*.pbix.temp
+*.pbi-temp
+*.pbit
+*.pbixl
+
+# Ignore Python cache folders and files
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# Ignore specific data files (if you don't want to version raw CSVs)
+# For this project, we are versioning the data, so these lines remain commented
+# data/*.csv
+
+# Ignore logs and other generated files
+*.log
+*.sqlite
+*.db
+
+# Ignore specific operating system or IDE files
+.DS_Store # macOS
+Thumbs.db # Windows
+.vscode/ # VS Code settings
+.idea/ # IntelliJ/PyCharm settings
+*.env # Environment files (if used)
