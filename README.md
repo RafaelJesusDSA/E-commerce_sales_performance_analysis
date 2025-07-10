@@ -30,7 +30,7 @@ The data utilized in this project is the [Olist E-commerce Public Dataset](https
 ## Dashboard Preview
 Here's a preview of the interactive dashboard created in Power BI:
 
-![Olist E-commerce Performance Dashboard](reports/dashboard_overview.png)
+![Olist E-commerce Performance Dashboard](reports/Projeto_Ecommerce_KPIs.png)
 *(Ensure the path `reports/dashboard_overview.png` matches the actual location and filename of your dashboard image)*
 
 ## Project Structure
